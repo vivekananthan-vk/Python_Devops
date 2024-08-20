@@ -1,0 +1,6 @@
+my_list=[1,2,3,4,'Vivek']
+print(my_list)
+print(my_list[4])
+my_list[3]='Vivek Devops'
+print(my_list)
+
